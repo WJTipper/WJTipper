@@ -12,7 +12,7 @@ Hire me!
 
 Contact details:
 + will.tipper@hotmail.co.uk
-+ linkedin/in/willtipper
++ linkedin.com/in/willtipper
 
 <!--
 **WJTipper/WJTipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
