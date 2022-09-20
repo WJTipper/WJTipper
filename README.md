@@ -1,19 +1,3 @@
-# Hi there, I'm Will.
-I'm currently learning:
-+ Python
-+ Kotlin
-
-Current Projects:
-+ Multilingual Online Translator, Python
-+ Text-based fighting game, Python
-
-Hire me!
-+ I'm currently looking for an entry-level developer role based in the UK.
-
-Contact details:
-+ will.tipper@hotmail.co.uk
-+ linkedin.com/in/willtipper
-
 <!--
 **WJTipper/WJTipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
